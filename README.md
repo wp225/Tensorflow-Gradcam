@@ -9,3 +9,4 @@ Outputs:
 1. Prediction Class-> Index
 2. PIL image-> Heatmap 
 
+<img src="src/test.png">
