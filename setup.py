@@ -4,7 +4,7 @@ setup(
     name="tensorflow_gradcam",
     version="0.1.0",
     author="Jeorge Joshi",
-    author_email="georgejoshi@example.com",
+    author_email="georgejoshi@gmail.com",
     description="A package for computing Grad-CAM on TensorFlow models",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
